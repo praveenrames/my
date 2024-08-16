@@ -1,8 +1,46 @@
-# React + Vite
+# FOCUS ZONE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ - FOCUS ZONE is a personal task management app used to store, organize and prioritize your tasks.
 
-Currently, two official plugins are available:
+ - Visit here: https://praveen-task-management-app.netlify.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Tech Stack
+
+### Front End Tool
+
+- React.JS
+-	Tailwind CSS
+-	Formik Validation Tool
+-	React Router Client side routing Tool
+-	Redux and Context API
+-	Vite
+-	Flowbite
+
+### Back End Tool
+
+- Node.js
+-	Express.js
+-	API Handle Test
+-	MongoDB
+-	Authentication
+-	Authorisation
+-	Bcrypt
+
+# Dependencies
+
+### The following dependencies are required to run this project:
+
+ - bcrypt
+ - cookie-parser
+ - cors
+ - dotenv
+ - express
+ - jsonwebtoken
+ - jwt-decode
+ - mongoose
+ - morgan
+ - multer
+
+# 
+
+
