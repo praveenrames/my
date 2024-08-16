@@ -13,7 +13,7 @@ const TaskCard = ({
     setInProgressTasks,
     handleTaskOpen,
 }) => {
-    const [dropdown, setDropdown] = useState(false);
+    const [dropdown, setDropdown] = useState('hidden');
     const token = JSON.parse(localStorage.getItem('token'));
     const config = {
         headers: { Authorization: `Bearer ${token}`},
