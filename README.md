@@ -5,6 +5,12 @@
  - Visit here: https://praveen-task-project.netlify.app
 
 ### Website
+![Screenshot 2024-10-17 135510](https://github.com/user-attachments/assets/0d640e87-b59e-470f-a2a0-c23404f23146)
+![task-2](https://github.com/user-attachments/assets/098af301-55b8-4fc7-ac09-accd689836af)
+![task-3](https://github.com/user-attachments/assets/f5261f5e-f881-49e5-8617-9c8f64f9c946)
+![task-4](https://github.com/user-attachments/assets/e5821854-d9ef-4d17-a09a-1d21fdbc1a51)
+![task-5](https://github.com/user-attachments/assets/0dda46c9-4d66-46ff-bc1c-651520425468)
+
 
 
 ### Front End Tool
